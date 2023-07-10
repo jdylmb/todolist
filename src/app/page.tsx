@@ -1,7 +1,7 @@
 function MyButton() {
   return (
     <button>
-      I'm a button
+      I&apos;m a button
     </button>
   );
 }
